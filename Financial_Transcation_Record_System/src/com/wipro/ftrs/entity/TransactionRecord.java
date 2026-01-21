@@ -20,7 +20,7 @@ public class TransactionRecord {
         this.remarks = remarks;
     }
 
-    // 🔴 THESE WERE MISSING
+  
     public String getType() {
         return type;
     }
